@@ -58,7 +58,22 @@
     <footer>
         <p>&copy; 2023 Your Portfolio</p>
     </footer>
+
+    <!-- Include Typed.js from a CDN -->
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+
+<script>
+    var options = {
+      strings: document.querySelector('.typed').getAttribute('data-typed-items').split(','),
+      typeSpeed: 50, // typing speed in milliseconds
+      backSpeed: 25, // backspacing speed in milliseconds
+      loop: true // whether to loop through the items
+    };
+  
+    var typed = new Typed('.typed', options);
+  </script>  
+
     <script src="main.js"></script>
-    
+
 </body>
 </html>
