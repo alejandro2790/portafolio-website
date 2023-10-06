@@ -6,13 +6,13 @@ body, h1, h2, h3, p, ul, li {
 
 /* Set a background color for the entire page */
 body {
-  background-color: #FBF8BE; /* Change to your preferred background color */
+  background-color: #272829; /* Change to your preferred background color */
   font-family: Arial, Source Sans Pro; /* Choose a suitable font-family */
 }
 
 /* Header Styles */
 header {
-  background-color: #234E70; /* Header background color */
+  background-color: #040b14; /* Header background color */
   color: #fff; /* Text color */
   padding: 20px;
 }
