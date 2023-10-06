@@ -6,7 +6,7 @@ body, h1, h2, h3, p, ul, li {
 
 /* Set a background color for the entire page */
 body {
-  background-color: #272829; /* Change to your preferred background color */
+  background-color: #fafafa;; /* Change to your preferred background color */
   font-family: Arial, Source Sans Pro; /* Choose a suitable font-family */
 }
 
@@ -66,7 +66,7 @@ nav a {
 
 /* Portfolio Section Styles */
 #portfolio {
-  background-color: #FBF8BE; /* Background color for the portfolio section */
+  background-color: #fafafa; /* Background color for the portfolio section */
   padding: 50px;
 }
 
@@ -112,7 +112,7 @@ nav a {
 
 /* Footer Styles */
 footer {
-  background-color: #234E70; /* Footer background color */
+  background-color: #040b14;; /* Footer background color */
   color: #fff; /* Text color */
   text-align: center;
   padding: 20px 0;
