@@ -38,7 +38,7 @@ nav a {
   padding: 100px 0;
   width: 100%;
   height: 100vh;
-  background: url("/img/Ale 2(1).png") top; center;
+  background: url("../img/Ale 2(1).png") top; center;
   background-size: cover;
   }
 
