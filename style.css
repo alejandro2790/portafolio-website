@@ -18,6 +18,10 @@ header {
   background-color: #040b14; /* Header background color */
   color: #fff; /* Text color */
   padding: 20px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
 
 nav ul {
