@@ -6,7 +6,6 @@ body, h1, h2, h3, p, ul, li {
 
 /* Set a background color for the entire page */
 body {
-  background-color: #fafafa; /* Change to your preferred background color */
   font-family: Arial, Source Sans Pro; /* Choose a suitable font-family */
   background-image: url("../img/Alelake.png");
   background-size: cover; /* Adjust the background size as needed */
