@@ -124,6 +124,10 @@ footer {
   color: #fff; /* Text color */
   text-align: center;
   padding: 20px 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
 
 /* Add any additional custom styles as needed */
