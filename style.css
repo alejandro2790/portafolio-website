@@ -120,12 +120,12 @@ nav a {
 
 /* Footer Styles */
 footer {
-  background-color: #040b14;; /* Footer background color */
+  background-color: #040b14; /* Footer background color */
   color: #fff; /* Text color */
   text-align: center;
   padding: 20px 0;
   position: fixed;
-  top: 0;
+  bottom: 0; /* Changed "top" to "bottom" for a fixed footer */
   left: 0;
   width: 100%;
 }
