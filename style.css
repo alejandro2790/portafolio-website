@@ -39,8 +39,9 @@ nav a {
   width: 100%;
   height: 100vh;
   background-image: url("../img/Alelake.png");
-  background-position: top center; /* Specify the background position separately */
-  background-size: cover;
+  background-position: center center;/* Specify the background position separately */
+  background-size: cover; /* Adjust the background size as needed */
+  background-repeat: no-repeat;
 }
 
 
