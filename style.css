@@ -7,7 +7,7 @@ body, h1, h2, h3, p, ul, li {
 /* Set a background color for the entire page */
 body {
   font-family: Arial, Source Sans Pro; /* Choose a suitable font-family */
-  background-image: url("../portafolio-website/img/Alelake.png");
+  background-image: url("../portafolio-website/img/Alelake.png"); top; center;
   background-size: cover; /* Adjust the background size as needed */
   background-repeat: no-repeat;
   background-attachment: fixed; /* Optional: Keeps the background fixed while scrolling */
@@ -44,12 +44,12 @@ nav a {
 
 #hero h1 {
   font-size: 2.5rem; /* Adjust the font size as needed */
-  color: #173b6c; /* Hero title color */
+  color: #ffffff; /* Hero title color */
 }
 
 #hero p {
   font-size: 1.2rem; /* Adjust the font size as needed */
-  color: #666; /* Hero subtitle color */
+  color: #ffffff; /* Hero subtitle color */
 }
 
 /* About Section Styles */
