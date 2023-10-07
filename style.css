@@ -7,7 +7,7 @@ body, h1, h2, h3, p, ul, li {
 /* Set a background color for the entire page */
 body {
   font-family: Arial, Source Sans Pro; /* Choose a suitable font-family */
-  background-image: url("https://travalalberta-prod.dotcdn.io/contentAsset/image/491562b4-8225-49ed-9913-f452f464e866/fileAsset/filter/Resize,Crop/resize_h/870/crop_w/1800/crop_h/580/fp/0.52,0.4/jpeg_q/85");
+  background-image: url("../portafolio-website/img/Alelake.png");
   background-size: cover; /* Adjust the background size as needed */
   background-repeat: no-repeat;
   background-attachment: fixed; /* Optional: Keeps the background fixed while scrolling */
