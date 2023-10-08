@@ -72,6 +72,23 @@ nav a {
   color: #666; /* Text color */
 }
 
+/* Skills Section Styles */
+#skills {
+  background-color: #fff; /* Background color for the about section */
+  padding: 50px;
+}
+
+#skills h2 {
+  font-size: 2rem; /* Adjust the font size as needed */
+  color: #173b6c; /* Section title color */
+}
+
+#skills p {
+  font-size: 1.1rem; /* Adjust the font size as needed */
+  color: #666; /* Text color */
+}
+/* Text color end */
+
 /* Portfolio Section Styles */
 #portfolio {
   background-color: #fafafa; /* Background color for the portfolio section */
