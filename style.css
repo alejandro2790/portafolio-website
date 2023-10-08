@@ -133,6 +133,7 @@ nav a {
 
 /* Contact Section Styles */
 #contact {
+  background-color: #fff; /* Background color for the portfolio section */
   padding: 50px;
   text-align: center;
 }
