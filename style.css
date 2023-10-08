@@ -72,6 +72,16 @@ nav a {
   color: #666; /* Text color */
 }
 
+/* Style the specific <ul> element with the class "my-list" */
+.my-list {
+  font-size: 1.1rem; /* Adjust the font size as needed */
+  color: #666; /* Text color */
+}
+.my-list li {
+  margin-top: 5px; /* Add spacing between list items */
+}
+
+
 /* Skills Section Styles */
 #skills {
   background-color: #fff; /* Background color for the about section */
