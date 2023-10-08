@@ -8,7 +8,8 @@ body, h1, h2, h3, p, ul, li {
 body {
   font-family: Arial, Source Sans Pro; /* Choose a suitable font-family */
   background-image: url("../portafolio-website/img/Alelake.png");
-  background-position: center center; 
+  background-position: center center;
+  background-size: 50%; /* Adjust the background size to make it smaller */ 
   background-size: cover; /* Adjust the background size as needed */
   background-repeat: no-repeat;
   background-attachment: fixed; /* Optional: Keeps the background fixed while scrolling */
