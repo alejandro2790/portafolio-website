@@ -84,6 +84,21 @@ nav a {
   margin-top: 5px; /* Add spacing between list items */
 }
 
+/* Resume Section Styles */
+#resume {
+  background-color: #fafafa; /* Background color for the portfolio section */
+  padding: 50px;
+}
+
+#resume h2 {
+  font-size: 2rem; /* Adjust the font size as needed */
+  color: #173b6c; /* Section title color */
+}
+
+#resume p {
+  font-size: 1.1rem; /* Adjust the font size as needed */
+  color: #666; /* Text color */
+}
 
 /* Skills Section Styles */
 #skills {
