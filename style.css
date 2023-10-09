@@ -147,18 +147,18 @@ nav a {
   color: #666; /* Project description color */
 }
 
-/* Testimonials Section Styles */
-#testimonials {
+/* Recommendations Section Styles */
+#recommendations {
   background-color: #fff; /* Background color for the portfolio section */
   padding: 50px;
 }
 
-#testimonials h2 {
+#recommendations h2 {
   font-size: 2rem; /* Adjust the font size as needed */
   color: #173b6c; /* Section title color */
 }
 
-#testimonials p {
+#recommendations p {
   font-size: 1.1rem; /* Adjust the font size as needed */
   color: #666; /* Text color */
 }
