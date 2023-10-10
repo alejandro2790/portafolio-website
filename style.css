@@ -6,7 +6,6 @@ body, h1, h2, h3, p, ul, li {
 
 /* Set a background color for the entire page */
 body {
-  font-family: Arial, Source Sans Pro; /* Choose a suitable font-family */
   background-image: url("../portafolio-website/img/Alelake.png");
   background-position: center center;
   background-size: 100%; /* Adjust the background size to make it smaller */ 
@@ -16,7 +15,8 @@ body {
 
 /* Header Styles */
 header {
-  background-color: #040b14; /* Header background color */
+  background-color: #173b6c; /* Header background color */
+  font-family: 'Merriweather', serif; /* header font */
   color: #fff; /* Text color */
   padding: 20px;
   position: fixed;
@@ -52,11 +52,13 @@ nav a {
 #hero h1 {
   font-size: 2.5rem; /* Adjust the font size as needed */
   color: #ffffff; /* Hero title color */
+  font-family: 'Merriweather', serif; /* Choose a suitable font-family */
 }
 
 #hero p {
   font-size: 1.2rem; /* Adjust the font size as needed */
   color: #ffffff; /* Hero subtitle color */
+  font-family: 'Mulish', sans-serif; /* Choose a suitable font-family */
 }
 
 /* About Section Styles */
@@ -68,36 +70,41 @@ nav a {
 #about h2 {
   font-size: 2rem; /* Adjust the font size as needed */
   color: #173b6c; /* Section title color */
+  font-family: 'Merriweather', serif; /* Choose a suitable font-family */
 }
 
 #about p {
   font-size: 1.1rem; /* Adjust the font size as needed */
   color: #666; /* Text color */
+  font-family: 'Mulish', sans-serif; /* Choose a suitable font-family */
 }
 
 /* Style the specific <ul> element with the class "my-list" */
 .my-list {
   font-size: 1.1rem; /* Adjust the font size as needed */
   color: #666; /* Text color */
+  font-family: 'Mulish', sans-serif; /* Choose a suitable font-family */
 }
 .my-list li {
   margin-top: 5px; /* Add spacing between list items */
 }
 
-/* Resume Section Styles */
-#resume {
+/* Experience Section Styles */
+#experience {
   background-color: #fff; /* Background color for the portfolio section */
   padding: 50px;
 }
 
-#resume h2 {
+#experience h2 {
   font-size: 2rem; /* Adjust the font size as needed */
   color: #173b6c; /* Section title color */
+  font-family: 'Merriweather', serif; /* Choose a suitable font-family */
 }
 
-#resume p {
+#experience p {
   font-size: 1.1rem; /* Adjust the font size as needed */
   color: #666; /* Text color */
+  font-family: 'Mulish', sans-serif; /* Choose a suitable font-family */
 }
 
 /* Skills Section Styles */
@@ -109,11 +116,13 @@ nav a {
 #skills h2 {
   font-size: 2rem; /* Adjust the font size as needed */
   color: #173b6c; /* Section title color */
+  font-family: 'Merriweather', serif; /* Choose a suitable font-family */
 }
 
 #skills p {
   font-size: 1.1rem; /* Adjust the font size as needed */
   color: #666; /* Text color */
+  font-family: 'Mulish', sans-serif; /* Choose a suitable font-family */
 }
 /* Text color end */
 
@@ -126,6 +135,7 @@ nav a {
 #portfolio h2 {
   font-size: 2rem; /* Adjust the font size as needed */
   color: #173b6c; /* Section title color */
+  font-family: 'Merriweather', serif; /* Choose a suitable font-family */
 }
 
 .portfolio-item {
@@ -140,11 +150,13 @@ nav a {
 .portfolio-item h3 {
   font-size: 1.5rem; /* Adjust the font size as needed */
   color: #333; /* Project title color */
+  font-family: 'Merriweather', serif; /* Choose a suitable font-family */
 }
 
 .portfolio-item p {
   font-size: 1rem; /* Adjust the font size as needed */
   color: #666; /* Project description color */
+  font-family: 'Mulish', sans-serif; /* Choose a suitable font-family */
 }
 
 /* Recommendations Section Styles */
@@ -156,11 +168,13 @@ nav a {
 #recommendations h2 {
   font-size: 2rem; /* Adjust the font size as needed */
   color: #173b6c; /* Section title color */
+  font-family: 'Merriweather', serif; /* Choose a suitable font-family */
 }
 
 #recommendations p {
   font-size: 1.1rem; /* Adjust the font size as needed */
   color: #666; /* Text color */
+  font-family: 'Mulish', sans-serif; /* Choose a suitable font-family */
 }
 
 /* Education Section Styles */
@@ -172,11 +186,13 @@ nav a {
 #education h2 {
   font-size: 2rem; /* Adjust the font size as needed */
   color: #173b6c; /* Section title color */
+  font-family: 'Merriweather', serif; /* Choose a suitable font-family */
 }
 
 #education p {
   font-size: 1.1rem; /* Adjust the font size as needed */
   color: #666; /* Text color */
+  font-family: 'Mulish', sans-serif; /* Choose a suitable font-family */
 }
 
 /* Contact Section Styles */
@@ -188,11 +204,13 @@ nav a {
 #contact h2 {
   font-size: 2rem; /* Adjust the font size as needed */
   color: #173b6c; /* Section title color */
+  font-family: 'Merriweather', serif; /* Choose a suitable font-family */
 }
 
 #contact p {
   font-size: 1.1rem; /* Adjust the font size as needed */
   color: #666; /* Text color */
+  font-family: 'Mulish', sans-serif; /* Choose a suitable font-family */
 }
 
 /* Footer Styles */
