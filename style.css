@@ -6,7 +6,7 @@ body, h1, h2, h3, p, ul, li {
 
 /* Set a background color for the entire page */
 body {
-  background-image: url("/img/Alelake.png");
+  background-image: url("../portafolio-website/img/Alelake.png");
   background-position: center center;
   background-size: 100% auto; /* Adjust the background size to make it smaller */ 
   background-repeat: no-repeat;
