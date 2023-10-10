@@ -6,20 +6,21 @@ body, h1, h2, h3, p, ul, li {
 
 /* Set a background color for the entire page */
 body {
-  background-image: url("../portafolio-website/img/Alelake.png");
+  background-image: url("/img/Alelake.png");
   background-position: center center;
-  background-size: 100%; /* Adjust the background size to make it smaller */ 
+  background-size: 100% auto; /* Adjust the background size to make it smaller */ 
   background-repeat: no-repeat;
   background-attachment: fixed; /* Optional: Keeps the background fixed while scrolling */
 }
 
 /* Header Styles */
+
 header {
   background-color: #173b6c; /* Header background color */
   font-family: 'Merriweather', serif; /* header font */
   color: #fff; /* Text color */
   padding: 20px;
-  position: fixed;
+  position:fixed;
   top: 0;
   left: 0;
   width: 100%;
