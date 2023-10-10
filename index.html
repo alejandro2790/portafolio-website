@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Website</title>s
+    <title>My Website</title>
     <link rel="stylesheet" type="text/css" href="style.css"> <!-- Include your CSS file here -->
+    <link rel="stylesheet" type="text/css" href="mediaqueries.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Mulish:wght@300&display=swap" rel="stylesheet"> <!-- Merriweather and Mulish font-->
@@ -12,18 +13,22 @@
 <body>
     <!-- Header Section -->
     <header>
-        <nav>
-            <ul>
+        <nav id="desktop-nav">
+            <div class="nav-links">
+                <ul>
                 <li><a href="#about">About</a></li>
                 <li><a href="#experience">Experience</a></li>
-                <li><a href="#technical skills">Technical Skills</a></li>
+                <li><a href="#skills">Technical Skills</a></li>
                 <li><a href="#portfolio">Portfolio</a></li>
                 <li><a href="#recommendations">Recommendations</a></li>
                 <li><a href="#education">Education</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
+        </div>
+    </div>
         </nav>
-    </header>
+  
+        </header>
 
     <!-- Hero Section -->
     <section id="hero">
@@ -49,7 +54,7 @@
     </section>
 
 <!-- Resume Section -->
-    <section id="resume">
+    <section id="experience">
         <h2>Experience</h2>
         <p style="text-align: justify;">I take pride in the quality of my projects and the satisfaction of my clients. Please take a look to what my valued clients have to say about their experiences with me.
 
@@ -139,7 +144,7 @@
     var typed = new Typed('.typed', options);
   </script>  
 
-    <script src="main.js"></script>
+    <script src="script.js"></script>
 
 </body>
 </html>
